@@ -24,7 +24,7 @@
     </header>
     <main>
         <div class="container-dashboard">
-                <?php include './template-part/fiche.php'?>
+                <?php include './template-part/fiche.php';?>
         </div>
     </main>
 </body>

@@ -34,7 +34,6 @@
                 $place = $updateData['place'];
                 $titleLoge = $updateData['title_loge'];
                 $image = $updateData['image_url'];
-                var_dump($image);
                 $_SESSION['image'] = $image;
                 $descriptionLoge = $updateData['description_loge'];
                 $service = $updateData['service'];

@@ -81,6 +81,6 @@ class Verification{
         
         if (isset($passwordAdmin) && $passwordAdmin === true) {
             $_SESSION['user'] = $userAdmin;
-            header("Location: ../templates/dashboard.php");
+            header("Location: ./templates/dashboard.php");
         }   
 }

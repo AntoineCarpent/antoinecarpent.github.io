@@ -33,15 +33,6 @@ include_once '../classes/voyage.php';
     
     $voyageId = $_SESSION['idVoyage'];
     $imageEdit = $_SESSION['image'];
-
-
-    // function logMovies() {
-    //     if (($image == '')) {
-    //     $image = $imageEdit;
-    // }else{
-    //    
-    // }
-    //   }
       
     
     
